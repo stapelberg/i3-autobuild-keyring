@@ -1,0 +1,12 @@
+Source: i3-autobuild-keyring
+Section: misc
+Priority: important
+Maintainer: Michael Stapelberg <michael@stapelberg.de>
+Standards-Version: 3.8.4
+
+Package: i3-autobuild-keyring
+Architecture: all
+Depends: gnupg (>= 1.0.6-4)
+Description: GnuPG keys of the build.i3wm.org archive
+ The build.i3wm.org archive has digitally signed Release files. This package
+ contains the archive keys used for that.

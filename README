@@ -1,0 +1,6 @@
+# Export the key (sign it before):
+gpg --export --armor > 0xBE1DB1F1.txt
+
+# On the machine where the keyring package is built:
+gpg --no-default-keyring --keyring i3-autobuild-keyring.gpg --import 0xBE1DB1F1.txt
+
