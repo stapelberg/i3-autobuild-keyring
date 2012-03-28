@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Wed, 28 Mar 2012 14:55:53 +0200
+Source: i3-autobuild-keyring
+Binary: i3-autobuild-keyring
+Architecture: source all
+Version: 2012.03.28
+Distribution: unstable
+Urgency: low
+Maintainer: Michael Stapelberg <michael@stapelberg.de>
+Changed-By: Michael Stapelberg <michael@stapelberg.de>
+Description: 
+ i3-autobuild-keyring - GnuPG keys of the build.i3wm.org archive
+Changes: 
+ i3-autobuild-keyring (2012.03.28) unstable; urgency=low
+ .
+   * Update key (expires in 2 years)
+Checksums-Sha1: 
+ 6e56456d2b65d6cc6537cbf7742171262e854628 1448 i3-autobuild-keyring_2012.03.28.dsc
+ 0e61ddeede32953cfae2d21b341aaef197486ed6 5859 i3-autobuild-keyring_2012.03.28.tar.gz
+ cdc772a7a4ff25bf0e9c640c63d324d6e3072fa2 5264 i3-autobuild-keyring_2012.03.28_all.deb
+Checksums-Sha256: 
+ 5201f154a48eaff77284eba22ba68a5a3969c29bdd5b9bce0fc8b81198628218 1448 i3-autobuild-keyring_2012.03.28.dsc
+ c4db7e9e71f2b9a1f73be1d0fd7b5f2423a64e6d956f6a73163d3a593e10edb6 5859 i3-autobuild-keyring_2012.03.28.tar.gz
+ cc355bd6735a9ec6e06ae0e968bd331eb703d70ed57904a5d441053f13b96bcc 5264 i3-autobuild-keyring_2012.03.28_all.deb
+Files: 
+ a438ed0fe6f73b91ec27d627f83b78bc 1448 misc important i3-autobuild-keyring_2012.03.28.dsc
+ 9bcc6c27b72b2c438ad26bbfebe6649a 5859 misc important i3-autobuild-keyring_2012.03.28.tar.gz
+ 47b1a0cfd1e2c191c4cf9ba91e03e293 5264 misc important i3-autobuild-keyring_2012.03.28_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQIcBAEBCAAGBQJPcwpyAAoJEE5xYO1KyO4dX34QAJfDNjG4Wdfgd8SiRUWdoEyh
+IihmtlJsBQr0WSmdHUwvc2Yin8iw3ftBVmQoFHDy8kqabw/KJ1KcCJ4RRebkveHm
+ys9TnFqDfQ3YacLEWnZZa1IkuW4zw1asMQm/P290YEEEgGjTW4xhFdo+M5hW0//u
+3HX3pY48iszxYo2y5+a5GKxdsXhTV2K4s4Gt9UfBwFX9qHnD4g88X+rvjeQVzQ8R
+xNBOmDkZ41GXM79cCgEUGf8jYakpbFXrmihD4a83YLEqiJZCvFVfBpMeR/Ek7Ocs
+26qZAq7dwgy/Nno2B1iM+PCwzran/q2PVDqEia339L9zGBA6cmH+R1HRIbcUX9Xp
+zeAh91Yh0TY3Q85z6Z4qZMl5YItwETjFTYHgExi8UAa2zhnEZvuvX/10LGw3345O
+OnqaO0B7rblEUATi3dVhZvtiikJ9EANyO2yVFe1/i0s3CDPXqR0HmLd2Sp9tmAY5
+PPvKKps74nstcEb0EogYTaB3oR1rSpcHDfdAWCPqgAHMcQvWcGES/PoEBA0v5Exr
+F5s//X2Q4VzCKsKxn4D2Y5X51qs+cwOkH+04Hqklox0ZQq72ZmGN97/luIc/vfcC
+DDFtYwE4Bu1fw//YmVfp7Vifwgk3oB0lKXk8D521p4UDktqNcGGaNeIkltAEmHy7
+tpneTHWZzW+hKo4O6Lqk
+=GMk9
+-----END PGP SIGNATURE-----
