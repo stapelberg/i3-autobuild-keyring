@@ -1,3 +1,9 @@
+i3-autobuild-keyring (2014.03.31) unstable; urgency=low
+
+  * Update key (expires in 3 years)
+
+ -- Michael Stapelberg <michael@stapelberg.de>  Mon, 31 Mar 2014 20:04:16 +0200
+
 i3-autobuild-keyring (2012.03.28) unstable; urgency=low
 
   * Update key (expires in 2 years)
