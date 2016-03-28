@@ -1,1 +1,1 @@
-7c94151e76bcc24f1c44f7eb74aeb6bd  keyrings/i3-autobuild-keyring.gpg
+8f2eba99e791fc740dc2bb9b7f27d2ff  keyrings/i3-autobuild-keyring.gpg
