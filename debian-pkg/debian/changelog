@@ -1,3 +1,10 @@
+i3-autobuild-keyring (2016.10.01) unstable; urgency=low
+
+  * Install key to /etc/apt/trusted.d instead of using apt-key,
+    as per David Kalnischkies’s advice in https://bugs.debian.org/838779
+
+ -- Michael Stapelberg <michael@stapelberg.de>  Sat, 01 Oct 2016 02:36:37 +0200
+
 i3-autobuild-keyring (2016.03.28) unstable; urgency=low
 
   * Update key (expires in 5 years)

@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Sat, 01 Oct 2016 02:36:37 +0200
+Source: i3-autobuild-keyring
+Binary: i3-autobuild-keyring
+Architecture: source all
+Version: 2016.10.01
+Distribution: unstable
+Urgency: low
+Maintainer: Michael Stapelberg <michael@stapelberg.de>
+Changed-By: Michael Stapelberg <michael@stapelberg.de>
+Description:
+ i3-autobuild-keyring - GnuPG keys of the build.i3wm.org archive
+Changes:
+ i3-autobuild-keyring (2016.10.01) unstable; urgency=low
+ .
+   * Install key to /etc/apt/trusted.d instead of using apt-key,
+     as per David Kalnischkies’s advice in https://bugs.debian.org/838779
+Checksums-Sha1:
+ b6bf2650b9597aec42a6e415aa3c9083d7173055 599 i3-autobuild-keyring_2016.10.01.dsc
+ db84b96277432f246b49b2489143867237cc2585 6328 i3-autobuild-keyring_2016.10.01.tar.gz
+ 1027702166ec993913e59e91615d1a45e2f1a45a 6558 i3-autobuild-keyring_2016.10.01_all.deb
+Checksums-Sha256:
+ 2d09373870ee7bcfbfa54568f023b080374f5634778bb8124cdd7e1889e554c9 599 i3-autobuild-keyring_2016.10.01.dsc
+ f572651a4cf29cfb8c4ca1fadee1835bd5671db836f766d1cc55595566e8b321 6328 i3-autobuild-keyring_2016.10.01.tar.gz
+ 460e8c7f67a6ae7c3996cc8a5915548fe2fee9637b1653353ec62b954978d844 6558 i3-autobuild-keyring_2016.10.01_all.deb
+Files:
+ 7b3ba693df63b9c32416224ad30b98a4 599 misc important i3-autobuild-keyring_2016.10.01.dsc
+ 748da0053681ff1cdca3dfe9ff45738a 6328 misc important i3-autobuild-keyring_2016.10.01.tar.gz
+ b8c0d6dbb254b9db362a1f018b9cc8ba 6558 misc important i3-autobuild-keyring_2016.10.01_all.deb
